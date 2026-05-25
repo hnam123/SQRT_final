@@ -1,3 +1,3 @@
 ## Datapath structure
-![Datapath](src/rtl/DATAPATH/SQRT_final/images/datapath2.jpg)
+![Datapath](https://github.com/hnam123/SQRT_final/blob/main/images/datapath2%20(1).jpg)
 
