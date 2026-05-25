@@ -4,7 +4,13 @@
 ## There are 3 main blocks of Datapath:
 ### 1. Normalization block
 ![Normalization_block](https://github.com/hnam123/SQRT_final/blob/main/images/datapath2%20(2).jpg)
-### 2. Calculating block
+### Block function: Normalize a input a into range [0.5,2.0)
+
+### 2. Loop and Calculating block
 ![Calculating_block](https://github.com/hnam123/SQRT_final/blob/main/images/datapath2%20(3).jpg)
+### Block function:Calculate X and Y N times( in this project (N = 32).
+
 ### 3.Output block
 ![Output_block](https://github.com/hnam123/SQRT_final/blob/main/images/datapath2.drawio%20(3).png)
+### Block function:Calculate output Sqrt_o.
+
