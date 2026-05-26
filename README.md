@@ -1,6 +1,7 @@
 # FPGA Square Root Project
 
 This project implements a square root algorithm using VHDL.
+
 Contributors: Hoai-Nam Dang, Hoang-Giang Bui.
 
 ## Features
