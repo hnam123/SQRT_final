@@ -7,5 +7,5 @@ This project implements a square root algorithm using VHDL.
 - Vivado compatible
 
 ## Folder Structure
-- src/rtl : RTL source
+- src/rtl : RTL VHDL source
 - src/tb  : Testbench
