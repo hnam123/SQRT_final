@@ -3,3 +3,5 @@
 ## 1. Sqrt_tb: used for behavior simulation
 
 ## 2. SQRT_tb_post_synth: used for  synthesis and implementation simulations
+
+## 3. timing_constraints: used for timing simulations
